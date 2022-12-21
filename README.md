@@ -16,6 +16,5 @@ Software Engineering Student at BYU-Idaho<br><br>🔭 Currently working on an iO
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ryanmadsenn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
