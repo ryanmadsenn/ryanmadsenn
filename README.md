@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software Engineering Student at BYU-Idaho<br><br>🔭 Currently working on an iOS / Apple Watch app that interfaces with the Canvas Instructure API
 
 
